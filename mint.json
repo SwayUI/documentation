@@ -1,5 +1,5 @@
 {
-  "name": "Starter Kit",
+  "name": "SwayUI",
   "logo": {
     "dark": "/logo/dark.png",
     "light": "/logo/light.png"
@@ -61,8 +61,7 @@
     }
   ],
   "footerSocials": {
-    "twitter": "https://twitter.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "github": "https://github.com/SwayUI",
+    "linkedin": "https://www.linkedin.com/in/c-delouvencourt/"
   }
 }
