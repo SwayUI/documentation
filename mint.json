@@ -6,7 +6,7 @@
   },
   "favicon": "/favicon.png",
   "colors": {
-    "primary": "#0069ED",
+    "primary": "#6A46E9",
     "light": "#4D9CFF",
     "dark": "#0050B4"
   },
@@ -18,23 +18,18 @@
   ],
   "topbarCtaButton": {
     "name": "Get Started",
-    "url": "https://github.com/mintlify/starter"
+    "url": "https://github.com/SwayUI/sway-ui"
   },
   "anchors": [
     {
-      "name": "API Reference",
-      "icon": "rectangle-terminal",
+      "name": "Components",
+      "icon": "browsers",
       "url": "api-reference"
     },
     {
       "name": "Changelog",
       "icon": "list",
-      "url": "https://mintlify.com"
-    },
-    {
-      "name": "Community",
-      "icon": "discord",
-      "url": "https://mintlify.com/community"
+      "url": "https://github.com/SwayUI/sway-ui/blob/master/CHANGELOG.md"
     }
   ],
   "navigation": [
@@ -47,7 +42,7 @@
       "pages": ["features", "resources"]
     },
     {
-      "group": "API Documentation",
+      "group": "Components",
       "pages": ["api-reference/authentication"]
     },
     {
